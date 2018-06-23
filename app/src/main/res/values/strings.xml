@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ivonluteer</string>
+
+    <string name="logint_txt">Login</string>
+    <string name="senha_txt">senha</string>
+    <string name="esqueci_senha_txt">Esqueci a Senha</string>
+    <string name="entrar_btn_txt">ENTRAR</string>
+    <string name="solicata_acesso_txt">Solicitar Acesso</string>
+</resources>
